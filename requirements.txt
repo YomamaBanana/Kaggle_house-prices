@@ -1,0 +1,12 @@
+numpy
+pandas
+pandas-profiling
+matplotlib
+seaborn
+scikit-learn
+scipy
+xgboost
+
+ipykernel
+ipywidgets
+pyarrow
